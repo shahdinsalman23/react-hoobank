@@ -1,6 +1,6 @@
 # Hoobank Modern Website
 
-This project was developed following the tutorial from the [JavaScript Mastery](https://www.youtube.com/@javascriptmastery/videos) channel, to study the creation and development of a website using React. The following tools were used:
+This project was developed to understand and practice core React concepts in website creation and development. The following tools were used:
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Node / nvm](https://github.com/nvm-sh/nvm)
